@@ -1,0 +1,5 @@
+Variables: son elementos que contienen un valor, que puede variar a lo largo del codigo
+Strings: son variables de tipo texto
+Funciones (argumentos, `return`): las funciones se usan para no repetir codigo, cuando se usa con el return devuelve un valor
+Declaraciones `if`: el if es un condicional que evalua si una expresion se cumple para ejecutar algo
+Valores booleanos (`true`, `false`): los valores booleanos son verdadero o falso y se usan a la hora de evaluar una condicion
