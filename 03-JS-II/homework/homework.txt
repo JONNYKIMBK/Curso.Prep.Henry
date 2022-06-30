@@ -1,0 +1,5 @@
+for: es un bucle que permite repetir un codigo un numero determinado de veces
+
+&&, ||, !: && significa "y" (and), y se usa cuando se quieren evaluar mas de una condiciones, sera verdadera cuando todas las condiciones sean verdaderas y falsa si al menos una es falsa
+|| significa "o" (or), y se utiliza de la misma forma que el and, pero en este caso para que sea verdadera tiene que serlo al menos una de las condiciones y es falsa cuando todas lo son;
+! es la negacion, combierte lo evaluado en lo contrario, si una expresion es verdadera, al tener al lado el "!" se convierte en falsa
