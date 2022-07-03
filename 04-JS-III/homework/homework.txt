@@ -1,0 +1,1 @@
+Arrays: un array o arreglo contiene una serie de elementos dentro, al cual se puede acceder mediante un indice. Los elementos en javascript pueden ser de cualquier tipo, como numeros, letras, palabras, otros arrays, etc
