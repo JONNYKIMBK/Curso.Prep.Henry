@@ -1,0 +1,5 @@
+Objetos: los objetos son elemntos que pueden tener muchas propiedades, por ejemplo una persona que tiene un nombre, un apellido, una edad, un dni, etc
+Propiedades: son las caracteristicas que tiene un objeto, como las mencionadas antes, nombre, apellido, etc
+Metodos: los metodos son funciones dentro de los objetos.
+Bucle "for in": el for se utiliza cuando sabemos las veces que queremos repetir una accion, pero en el caso de los objetos no tenemos como saber la cantidad de propiedades que este tiene, por lo que se utiliza el for... in, que recorre cada calve del objeto.
+Notacion de puntos y de corchetes: la notacion de corchetes es como antes haciamos con las matrices, con la diferencia que va entre comillas, por lo que es una string y no un numero o una variable, la notacion de puntos es mas facil por esto, ya que va solo el punto y al lado la caracteristica a la que queremos acceder.
