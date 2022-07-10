@@ -1,0 +1,2 @@
+prototype: es un objeto del que esta basado otro y del cual hereda sus propiedades el nuevo objeto.
+constructors: los constructores son objetos que sirven de prototipo para nuevos objetos de la misma clase.
