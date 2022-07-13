@@ -1,0 +1,3 @@
+Funciones callbakk:
+en js las funciones se pueden utilizar como argumentos, guardar en variables, objetos o arrays
+por eso en una funcion se puede hacer uso de otra funcion, a esto se denomina callback.
